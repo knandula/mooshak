@@ -13,9 +13,10 @@ The system was originally intended for contests, but it is increasingly being us
 = Details =
 
 
-   * [Virtual contests]
-   * [Test Drive]
-   * [Install]
+   * [virtualContest  Virtual contests]
+   * [testDrive Test Drive]
+   * [install Installation instructions]
+
 
 
 

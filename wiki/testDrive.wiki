@@ -1,0 +1,10 @@
+#summary You can have a go with Mooshak before installing it
+= Test Drive =
+
+You can try all features of Mooshak before deciding to install it. Please bear in mind that this is an unprotected area (anyone has access to the passwords) so be patient if the configuration is not working properly and try not to mess too much with it. Each link bellow gives you access to the interface of a different user profile. Notice that most of these links require an authentication.
+
+	Id	Password
+|| [http://www.ncc.up.pt/~mooshak-test/cgi-bin/execute?team Contest Participant] || team || team ||
+|| [http://www.ncc.up.pt/~mooshak-test/cgi-bin/execute?judge Judges] || judge || judge ||
+|| [http://www.ncc.up.pt/~mooshak-test/cgi-bin/execute?admin Administration ] || admin || admin ||
+|| [http://www.ncc.up.pt/~mooshak-test/cgi-bin/execute?guest Audience] || _no authentication_ ||

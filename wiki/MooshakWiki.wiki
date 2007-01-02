@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#summary Mooshak's Wiki Pages
 #labels Featured
 
 = Introduction =
@@ -16,7 +16,6 @@ The system was originally intended for contests, but it is increasingly being us
    * [Virtual contests]
    * [Test Drive]
    * [Install]
-
 
 
 
